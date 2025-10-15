@@ -1,0 +1,8 @@
+Sandbox_EN = {
+
+	Sandbox_DoorBreacher = "Door Breacher",
+	Sandbox_DoorBreacher_ZedsKnockDown = "Zeds Knock Down",
+	Sandbox_DoorBreacher_PlayersKnockDown = "Players Knock Down",
+
+}
+

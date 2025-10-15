@@ -1,0 +1,13 @@
+VERSION = 1,
+
+option DoorBreacher.ZedsKnockDown
+{
+	type = boolean, default = true,
+	page = DoorBreacher, translation = DoorBreacher_ZedsKnockDown,
+}
+
+option DoorBreacher.PlayersKnockDown
+{
+	type = boolean, default = true,
+	page = DoorBreacher, translation = DoorBreacher_PlayersKnockDown,
+}
