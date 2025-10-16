@@ -1,0 +1,49 @@
+VERSION = 1,
+
+option DoorBreacher.EnableKnockdown
+{
+    type = boolean,
+    default = false,
+    page = DoorBreacher,
+    translation = DoorBreacher_EnableKnockdown,
+}
+
+option DoorBreacher.ZedsKnockDown
+{
+    type = boolean,
+    default = true,
+    page = DoorBreacher,
+    translation = DoorBreacher_ZedsKnockDown,
+}
+
+option DoorBreacher.PlayersKnockDown
+{
+    type = boolean,
+    default = false,
+    page = DoorBreacher,
+    translation = DoorBreacher_PlayersKnockDown,
+}
+
+option DoorBreacher.EnableDebugLog
+{
+    type = boolean,
+    default = false,
+    page = DoorBreacher,
+    translation = DoorBreacher_EnableDebugLog,
+}
+
+option DoorBreacher.BlockReinforcedDoors
+{
+    type = boolean,
+    default = true,
+    page = DoorBreacher,
+    translation = DoorBreacher_BlockReinforcedDoors,
+}
+
+option DoorBreacher.ReinforcedSpriteNumbers
+{
+    type = string,
+    default = "32,33,34,35,36,37,38,39",
+    page = DoorBreacher,
+    translation = DoorBreacher_ReinforcedSpriteNumbers,
+}

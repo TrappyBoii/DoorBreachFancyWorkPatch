@@ -1,0 +1,12 @@
+module Base
+{
+	sound DoorBreacherFootInjury
+	{
+		category = World,
+		clip
+		{
+			file = media/sound/BoneSnap.ogg,
+			distanceMax = 20,
+		}
+	}
+}
