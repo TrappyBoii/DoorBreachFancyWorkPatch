@@ -1,9 +1,0 @@
-sound DoorBreacherFootInjury
-{
-	category = World,
-	clip
-	{
-		event = BoneSnap,
-		distanceMax = 20,
-	}
-}

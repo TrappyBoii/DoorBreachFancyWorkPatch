@@ -1,8 +1,0 @@
-name=DoorBreach-FancyCompat
-id=DoorBreach
-description=Allows forcing wooden doors open with chance to injure feet. Compatible with Fancy Handwork.
-poster=poster.png
-require=Base
-version=1.0
-
-sandboxVars=DoorBreach_Sandbox
